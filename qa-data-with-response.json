@@ -1,0 +1,890 @@
+[
+    {
+        "instruction": "What is a glossary in Requirements Engineering?",
+        "input": "",
+        "output": "A glossary is a document containing technical terms used within the application domain together with their definitions. It promotes consistent terminology, improves communication, reduces misunderstandings, and helps onboard new team members.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "A glossary is a collection of terms used throughout the document to describe concepts such as requirements, requirements engineering, requirements analysis, and requirements engineering."
+    },
+    {
+        "instruction": "What is a business model?",
+        "input": "",
+        "output": "A business model describes how an organization performs its business processes. It provides software engineers with a complete understanding of how the client's organization operates and helps identify opportunities for automation and process improvement.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "A business model is a set of business practices, rules, and practices that guide the development, operation, and maintenance of a company. It provides the foundation for long-term planning, collaboration, and long-term financial success."
+    },
+    {
+        "instruction": "What is Business Process Analysis?",
+        "input": "",
+        "output": "Business Process Analysis studies how work is currently performed within an organization. Understanding existing processes is necessary before proposing software solutions.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Business Process Analysis is a software development methodology that identifies the most important software components and processes before implementation. It identifies the most important customer needs, identifies the most important software engineering tasks, and identifies the most important business problems."
+    },
+    {
+        "instruction": "What is Requirements Elicitation?",
+        "input": "",
+        "output": "Requirements Elicitation is the process of gathering information from stakeholders to understand the system that must be developed. Common techniques include interviews, questionnaires, observation, and document analysis.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Requirements Elicitation is a method of obtaining requirements from a project before implementation. Requirements are identified through a combination of requirements documents and requirements specifications."
+    },
+    {
+        "instruction": "Why are interviews considered the primary requirements elicitation technique?",
+        "input": "",
+        "output": "Interviews allow software engineers to communicate directly with stakeholders, ask detailed questions, clarify misunderstandings, and uncover hidden requirements that may not appear in written documentation.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Interviewing is the primary method used to determine whether a project is feasible, the primary method used to determine whether a project is important, and the primary method used to determine whether a project is complete."
+    },
+    {
+        "instruction": "What is the difference between closed-ended and open-ended interview questions?",
+        "input": "",
+        "output": "Closed-ended questions require specific, concise answers such as yes/no responses, numerical values, or facts. Open-ended questions encourage stakeholders to explain their ideas in detail and often reveal hidden requirements and business problems.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Closed-ended questions ask the candidate specific questions that are specific to the project. Open-ended questions ask the candidate general questions that can be answered by others."
+    },
+    {
+        "instruction": "What is the difference between structured and unstructured interviews?",
+        "input": "",
+        "output": "Structured interviews use predetermined questions and provide consistent, easy-to-compare responses. Unstructured interviews allow questions to evolve during the conversation, making them more flexible and better at discovering unexpected information.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Structure is a structured process that includes questions, answers, and documentation. Unstructured interviews are interviews conducted in a more unstructured manner, such as by video chat, email, or text chat."
+    },
+    {
+        "instruction": "Why should interview results always be documented?",
+        "input": "",
+        "output": "Interview reports preserve the information collected, reduce misunderstandings, and provide a reliable reference for future analysis and validation of requirements.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "The documentation should clearly identify the question asked, the question answered, the sample used, and the question answered."
+    },
+    {
+        "instruction": "When are questionnaires useful during Requirements Engineering?",
+        "input": "",
+        "output": "Questionnaires are useful when information must be collected from a large number of people. They are inexpensive, reach many participants, and provide standardized responses, although they offer limited detail and no immediate clarification.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Questionnaires are useful during Requirements Engineering when requirements are not well defined, when requirements are not clearly defined, or when requirements change frequently."
+    },
+    {
+        "instruction": "Why is Business Form Analysis useful?",
+        "input": "",
+        "output": "Business Form Analysis studies existing documents such as invoices, purchase orders, reports, and customer records to identify data requirements and business rules already used within the organization.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Business Form Analysis helps identify the most important information in a project and helps identify the most important risks."
+    },
+    {
+        "instruction": "What is Direct Observation?",
+        "input": "",
+        "output": "Direct Observation involves watching employees perform their daily activities to identify real workflows and undocumented procedures. Although highly informative, it can be time-consuming.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Direct Observation is the observation of a particular task from the point of view of the entire team. It emphasizes teamwork, collaboration, and teamwork-oriented activities such as project management, project planning, and project management software."
+    },
+    {
+        "instruction": "What is a Use Case?",
+        "input": "",
+        "output": "A Use Case models the interaction between a software system and external users or systems. It describes a specific goal that an actor wants to accomplish and captures software behavior from the user's perspective.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "A Use Case is a specific application of a software project. Examples include customer support, testing, documentation, and customer support."
+    },
+    {
+        "instruction": "What is an actor in a Use Case?",
+        "input": "",
+        "output": "An actor is any external entity that interacts with the software system. Actors may be human users, external systems, devices, or organizations, and they are defined by their role rather than their identity.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "An actor is the software component that performs the task assigned to it. It may be a web server, a database, or a back-end application."
+    },
+    {
+        "instruction": "Why do requirements evolve during a software project?",
+        "input": "",
+        "output": "Requirements evolve because the understanding of the business improves throughout development. Initial requirements are refined as new knowledge is gained, making requirement changes a normal part of software engineering.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Requirements evolve because the software team must continually adapt the software to changing business requirements, market conditions, and technological changes."
+    },
+    {
+        "instruction": "What is the difference between functional and nonfunctional requirements?",
+        "input": "",
+        "output": "Functional requirements describe what the software must do, such as registering users or processing payments. Nonfunctional requirements describe qualities or constraints such as performance, security, reliability, scalability, usability, and platform limitations.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Functional requirements require a function that returns a specific result, while nonfunctional requirements require a function that does not produce any result. Functions that satisfy both requirements are required."
+    },
+    {
+        "instruction": "What are the advantages of Requirements Engineering?",
+        "input": "",
+        "output": "Requirements Engineering reduces project risk, improves communication, prevents costly requirement errors, and produces software that better satisfies customer needs.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Requirements Engineering provides a systematic approach that focuses on the most important requirements, ensures that the project is scalable, and supports long-term planning."
+    },
+    {
+        "instruction": "A development team begins programming before understanding the client's business processes. Why is this considered poor Requirements Engineering?",
+        "input": "",
+        "output": "Beginning implementation before understanding the business domain increases the risk of solving the wrong problem. Requirements Engineering first studies the application domain, business processes, and stakeholder needs before implementation begins.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "The client's business processes are complex and often require extensive documentation. Requirements Engineering should be performed in a structured manner that addresses the client's specific needs and goals."
+    },
+    {
+        "instruction": "Why is Requirements Engineering considered the foundation of Software Engineering?",
+        "input": "",
+        "output": "Requirements Engineering establishes what the software must accomplish before analysis, design, and implementation begin. By understanding the application domain, identifying stakeholder needs, modeling business processes, eliciting requirements, and distinguishing functional from nonfunctional requirements, it provides the foundation for developing software that satisfies customer needs while reducing project risk and development costs.",
+        "subject": "Software Engineering",
+        "source_file": "03_Requirements_Engineering.jsonl",
+        "model_response": "Requirements Engineering provides the fundamental principles and practices used throughout the software life cycle, including requirements, requirements engineering, requirements analysis, requirements engineering requirements, and requirements engineering requirements. It also provides the tools used to analyze, document, and manage requirements."
+    },
+    {
+        "instruction": "What is Classical Analysis in Software Engineering?",
+        "input": "",
+        "output": "Classical Analysis is the phase of software development in which the client's requirements are transformed into a complete and precise Specification Document. It describes what the software must accomplish without explaining how it will be implemented.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Classical Analysis in Software Engineering is the process of studying software development and analysis using modern software development methods. It emphasizes systematic method, systematic documentation, and systematic documentation quality."
+    },
+    {
+        "instruction": "What is the purpose of Classical Analysis?",
+        "input": "",
+        "output": "The purpose of Classical Analysis is to produce a complete, consistent, and understandable specification that serves as an agreement between the client and the development team while reducing misunderstandings and requirement ambiguities.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The purpose of Classical Analysis is to determine whether a matrix is in RREF or not by studying the relationships among its columns and rows."
+    },
+    {
+        "instruction": "Why does Classical Analysis focus on what the software should do instead of how it will be implemented?",
+        "input": "",
+        "output": "Classical Analysis focuses on defining the required functionality independently of implementation details so that developers can later choose the most appropriate design and technologies.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The software should perform the task correctly and efficiently, not how it was designed. The goal is to understand the software so it can be improved instead of simply producing the same software repeatedly."
+    },
+    {
+        "instruction": "What is the Specification Document?",
+        "input": "",
+        "output": "The Specification Document is the primary product of the analysis phase. It serves as a contract between the client and the developers and becomes the foundation for software design, implementation, and testing.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The Specification Document is the document that describes the software project and the requirements that must be met before the project can be developed."
+    },
+    {
+        "instruction": "What characteristics should a good Specification Document have?",
+        "input": "",
+        "output": "A good Specification Document should be informal enough for the client to understand while being formal enough for developers to implement correctly.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "A good Specification Document should describe the solution set, the solution set's geometric structure, the geometric interpretation of the solution set, and the geometric interpretation of the solution set."
+    },
+    {
+        "instruction": "Why is writing a Specification Document considered challenging?",
+        "input": "",
+        "output": "It is challenging because the document must balance two conflicting goals: being easy for clients to understand while remaining precise enough for developers to implement accurately.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The document must describe the solution set, describe the constraints, describe the solution set, and describe the solution set in sufficient detail to support the solution set."
+    },
+    {
+        "instruction": "What project constraints are commonly included in a specification?",
+        "input": "",
+        "output": "Common project constraints include deadlines, parallel system operation, portability, reliability, performance requirements, and rapid response time. These constraints influence later design decisions.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Common project constraints include minimum requirements, maximum requirements, minimum effort, maximum productivity, and minimum software complexity."
+    },
+    {
+        "instruction": "What is a solution strategy?",
+        "input": "",
+        "output": "A solution strategy is a high-level plan that describes the general approach used to build the software product before detailed design begins.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "A solution strategy is a sequence of steps that identifies the most likely sequence of next steps. It helps the software engineer identify the most likely sequence of next steps and the most likely sequence of previous steps."
+    },
+    {
+        "instruction": "What are informal specifications?",
+        "input": "",
+        "output": "Informal specifications are early software specifications written in natural languages such as English. They are easy for clients to understand but may be ambiguous and difficult to verify.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Informal specifications are specifications that are not part of the formal specifications. Examples include the following:\n\n### Question:\nWhat are the advantages of using formal specifications?\n\n\nFormal specifications provide a systematic process for producing specifications, document-oriented design, and are easier to understand than informal specifications."
+    },
+    {
+        "instruction": "What are the advantages and disadvantages of informal specifications?",
+        "input": "",
+        "output": "Informal specifications are easy to write and understand, but they may contain ambiguity, allow multiple interpretations, and are difficult to verify accurately.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Informal specifications are simple, easy to understand, and require little effort. However, they may not always be appropriate for specific tasks, and they may not always be consistent with other specifications."
+    },
+    {
+        "instruction": "What is a Data Flow Diagram (DFD)?",
+        "input": "",
+        "output": "A Data Flow Diagram (DFD) models how information moves throughout a software system. It focuses on inputs, outputs, data movement, and processing activities rather than implementation details.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "A Data Flow Diagram (DFD) is a diagram that describes the flow of data through a system. It describes how data is organized, processed, and delivered."
+    },
+    {
+        "instruction": "What is the purpose of a Data Flow Diagram?",
+        "input": "",
+        "output": "The purpose of a Data Flow Diagram is to provide a logical representation of how data flows through a system so that both clients and developers can understand the system behavior.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The purpose of a Data Flow Diagram is to describe the flow of data through a system so that the system can be optimized for the task at hand."
+    },
+    {
+        "instruction": "How are Data Flow Diagrams refined during Classical Analysis?",
+        "input": "",
+        "output": "Data Flow Diagrams begin with a broad overview of the system, then additional processing details are added through successive refinements until the diagram accurately represents the client's business processes.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The process begins by selecting the correct pivot columns, eliminating redundant entries, and refining the pivot positions until the correct solution is obtained."
+    },
+    {
+        "instruction": "What are the main steps of the Classical Analysis process?",
+        "input": "",
+        "output": "The Classical Analysis process includes refining the Data Flow Diagram, identifying computerized business activities, creating a Data Dictionary, defining processing logic, specifying data structures, defining files, specifying user interactions, estimating system size, and determining hardware requirements.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The process begins by obtaining a complete text corpus, identifying the most important words, identifying the most frequent words, and identifying the most important sentences."
+    },
+    {
+        "instruction": "What is a Data Dictionary?",
+        "input": "",
+        "output": "A Data Dictionary is a centralized collection of definitions for every data element used within a software system. It ensures that all team members interpret data consistently.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "A Data Dictionary stores the words that appear in a corpus and provides a structured representation of the vocabulary."
+    },
+    {
+        "instruction": "What are the benefits of a Data Dictionary?",
+        "input": "",
+        "output": "A Data Dictionary standardizes terminology, improves communication, reduces ambiguity, and simplifies software maintenance.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "A Data Dictionary stores the most recent training examples, provides fast access to the most recent training data, and supports many different datasets."
+    },
+    {
+        "instruction": "What formal specification techniques are commonly used in Classical Analysis?",
+        "input": "",
+        "output": "Common formal specification techniques include Finite State Machines (FSM), Petri Nets, and Z Notation. Among these, Z Notation is considered one of the most rigorous mathematical specification methods.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Common techniques include linear independence, basis, dimension, rank, nullity, and nullity matrix."
+    },
+    {
+        "instruction": "How are Finite State Machines, Petri Nets, and Z Notation different?",
+        "input": "",
+        "output": "Finite State Machines model system behavior using states and transitions, Petri Nets model concurrent and distributed systems, and Z Notation uses mathematical notation to specify software with high precision.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Finite State Machines are simple mathematical models that process data in a single direction while using a single input and output state. Petri Nets are mathematical models that process data in a sequence of directions while using a single input and output state. Each of these models uses a different set of rules to process the same data."
+    },
+    {
+        "instruction": "What are the main applications of Classical Analysis?",
+        "input": "",
+        "output": "Classical Analysis is widely used in business information systems, banking software, government systems, embedded systems, and safety-critical software.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Classical Analysis is used in solving linear systems, solving linear systems using Gauss-Jordan Elimination, solving linear systems using Gauss-Jordan Elimination, solving linear systems using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using Gauss-Jordan Elimination, finding linear independence using"
+    },
+    {
+        "instruction": "What are the advantages of Classical Analysis?",
+        "input": "",
+        "output": "Classical Analysis produces precise specifications, improves communication between clients and developers, reduces ambiguity, and provides the foundation for software design.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Classical Analysis provides a systematic approach that systematically identifies hidden structures, identifies relationships among variables, and explains the relationships among independent variables."
+    },
+    {
+        "instruction": "What are the limitations of Classical Analysis?",
+        "input": "",
+        "output": "Classical Analysis is time-consuming, requires extensive documentation, informal specifications may remain ambiguous, and the approach is less flexible when requirements change frequently.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Classical Analysis assumes linear independence, ignores dependent vectors, ignores pivot positions, and ignores pivot columns."
+    },
+    {
+        "instruction": "A development team begins discussing programming languages before finishing the Specification Document. Why is this incorrect?",
+        "input": "",
+        "output": "This is incorrect because Classical Analysis defines what the software must do, not how it will be implemented. Implementation decisions belong to later phases of software development.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The development team should begin by discussing the strengths and weaknesses of each language before considering a specific programming language."
+    },
+    {
+        "instruction": "A software project contains inconsistent definitions for customer information across multiple documents. Which Classical Analysis artifact would solve this problem?",
+        "input": "",
+        "output": "A Data Dictionary would solve this problem by providing standardized definitions for every data element used throughout the project.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The definition of customer information should be consistent across documents because it is used throughout the project and is essential to understanding the project."
+    },
+    {
+        "instruction": "Describe the procedure followed during Classical Analysis.",
+        "input": "",
+        "output": "Begin by constructing and refining the Data Flow Diagram, determine the business activities to automate, create the Data Dictionary, define the processing logic, specify data structures and files, define user interactions, estimate system size, determine hardware requirements, and produce the final Specification Document.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "The procedure begins by obtaining the solution of the system using the Ax = 0 method. The solution is then converted into a basis using the Ax = 1 method, and the basis is used to determine the rank of the solution set."
+    },
+    {
+        "instruction": "Why is Classical Analysis considered a fundamental phase of Software Engineering?",
+        "input": "",
+        "output": "Classical Analysis transforms client requirements into a precise Specification Document that guides design, implementation, and testing. By reducing ambiguity and establishing a clear agreement between the client and developers, it provides the foundation for the entire software development process.",
+        "subject": "Software Engineering",
+        "source_file": "04_Classical_Analysis.jsonl",
+        "model_response": "Clustering, Principal Component Analysis, and Gauss-Jordan Elimination provide the foundation for understanding the fundamental concepts of Software Engineering."
+    },
+    {
+        "instruction": "What is Object-Oriented Analysis (OOA)?",
+        "input": "",
+        "output": "Object-Oriented Analysis (OOA) is a semiformal software analysis technique used in object-oriented software development. Its objective is to analyze the problem domain and identify the objects, classes, relationships, and behaviors required by the software system before implementation begins.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis (OOA) is a software development methodology that emphasizes simplicity, readability, and modularity. It emphasizes simplicity, readability, and modularity."
+    },
+    {
+        "instruction": "What is the purpose of Object-Oriented Analysis?",
+        "input": "",
+        "output": "The purpose of Object-Oriented Analysis is to transform customer requirements into an object-oriented representation that can later be used during software design and implementation. It improves requirement understanding, identifies system classes, produces maintainable software designs, and simplifies future implementation.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The purpose of Object-Oriented Analysis is to determine whether a system is a linear combination of dependent and independent elements. It also determines whether the system is consistent and whether it satisfies the requirements of linear programming."
+    },
+    {
+        "instruction": "Why does Object-Oriented Analysis focus on understanding the problem instead of implementation?",
+        "input": "",
+        "output": "Object-Oriented Analysis concentrates on understanding the problem domain and identifying the required objects, classes, and behaviors before deciding how the software will be implemented. This produces a stronger foundation for software design.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis focuses on understanding the problem instead of implementation because it reveals patterns that are not immediately obvious. It identifies patterns that are fundamental to the software architecture, such as inheritance, polymorphism, and inheritance-based inheritance."
+    },
+    {
+        "instruction": "What are the primary objectives of the Object-Oriented Analysis workflow?",
+        "input": "",
+        "output": "The Object-Oriented Analysis workflow has two primary objectives: obtaining a deeper understanding of the client's requirements and describing those requirements in a way that naturally leads to maintainable software design and implementation.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The primary objectives of the Object-Oriented Analysis workflow are to analyze the software architecture, identify defects, identify patterns, and identify patterns that can be improved."
+    },
+    {
+        "instruction": "What is class identification?",
+        "input": "",
+        "output": "Class identification is one of the primary activities of Object-Oriented Analysis. It identifies the major concepts, entities, and responsibilities within the application domain, making later design and implementation much easier.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Class identification is the process of identifying the different classes of a dataset by examining the different classes of the data."
+    },
+    {
+        "instruction": "What are the three main types of classes in Object-Oriented Analysis?",
+        "input": "",
+        "output": "The three main types of classes are Entity Classes, Boundary Classes, and Control Classes.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The three main types of classes are Inherited, Static, and Inherited from. Inherited classes inherit from the base class, while Static classes inherit from the base class."
+    },
+    {
+        "instruction": "What are Entity Classes?",
+        "input": "",
+        "output": "Entity Classes model long-lived information that must be permanently stored or maintained by the software system. Examples include customers, employees, products, invoices, and students, and they often correspond to database entities.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Entity Classes are software components that represent entities such as humans, computers, and other real-world objects. They provide a consistent and efficient way to represent and manage data."
+    },
+    {
+        "instruction": "What are Boundary Classes?",
+        "input": "",
+        "output": "Boundary Classes model the interaction between the software system and its external environment. They are commonly associated with user interfaces, input forms, output reports, APIs, and external systems.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Boundary Classes are Elementary Row Operations that transform a matrix into Row Echelon Form. They are commonly used to compute eigenvalues, solve linear systems, and compute rank."
+    },
+    {
+        "instruction": "What are Control Classes?",
+        "input": "",
+        "output": "Control Classes coordinate the execution of software operations. They contain business logic, algorithms, decision making, and complex computations while coordinating communication between boundary classes and entity classes.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Control Classes are elementary-school-level software engineering concepts that simplify software development and provide a simple and efficient way to organize and manage large projects."
+    },
+    {
+        "instruction": "How do Entity, Boundary, and Control Classes interact?",
+        "input": "",
+        "output": "A typical interaction begins with the user communicating through a Boundary Class. The request is processed by a Control Class, which performs the business logic and interacts with the Entity Class to store or retrieve information from the database.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The Entity, Boundary, and Control classes provide methods for organizing data, handling aggregation, and performing mathematical operations."
+    },
+    {
+        "instruction": "How are Entity Classes identified during Object-Oriented Analysis?",
+        "input": "",
+        "output": "Entity Classes are identified through an iterative process involving Functional Modeling, Class Modeling, and Dynamic Modeling.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The Entity Class is identified as the first parameter in the Object-Oriented Model. The first parameter is usually the name of the class, such as Entity.Person. The second parameter is the name of the data type, such as Object.Object. The third parameter is the index into the class, such as 0."
+    },
+    {
+        "instruction": "What is Functional Modeling?",
+        "input": "",
+        "output": "Functional Modeling describes how the software should behave. Its primary artifact is the Use Case, while scenarios describe specific sequences of interactions between an actor and the system.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Functional Modeling is a software development methodology that emphasizes simplicity, readability, and maintainability. It emphasizes simplicity, readability, and maintainability."
+    },
+    {
+        "instruction": "What is Class Modeling?",
+        "input": "",
+        "output": "Class Modeling identifies entity classes, class attributes, relationships between classes, and interactions among classes. The results are documented using UML Class Diagrams.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Class Modeling is the process of modeling the software development process using a structured model. It provides a consistent and predictable workflow that encourages collaboration, teamwork, and teamwork-oriented development."
+    },
+    {
+        "instruction": "What is Dynamic Modeling?",
+        "input": "",
+        "output": "Dynamic Modeling describes how objects behave over time by modeling operations, state changes, and object behavior. The results are commonly represented using UML State Diagrams (Statecharts).",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Dynamic Modeling is a software development approach that emphasizes flexibility, adaptability, and customer collaboration. It emphasizes simplicity, collaboration, and customer collaboration over rigid requirements and manual processes."
+    },
+    {
+        "instruction": "How is UML used during Object-Oriented Analysis?",
+        "input": "",
+        "output": "The Unified Modeling Language (UML) provides a standard notation for representing classes and system behavior. Common UML diagrams used during Object-Oriented Analysis include Use Case Diagrams, Class Diagrams, and State Diagrams.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "UML provides a structured syntax for organizing data, making it easy to understand, and organizing concepts such as rows, columns, and rows in a way that supports understanding."
+    },
+    {
+        "instruction": "What are the main applications of Object-Oriented Analysis?",
+        "input": "",
+        "output": "Object-Oriented Analysis is used in enterprise software, web applications, mobile applications, banking systems, healthcare software, and embedded systems.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis is used in web applications, mobile applications, embedded systems, embedded systems, embedded systems with embedded processors, embedded systems with embedded memory, embedded systems with embedded graphics, and embedded systems with embedded video."
+    },
+    {
+        "instruction": "What are the advantages of Object-Oriented Analysis?",
+        "input": "",
+        "output": "Object-Oriented Analysis produces maintainable software, improves requirement understanding, simplifies software design, encourages modularity, and promotes reusable software components.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis provides a simple syntax, efficient implementations, efficient memory usage, and supports many programming languages."
+    },
+    {
+        "instruction": "What are the limitations of Object-Oriented Analysis?",
+        "input": "",
+        "output": "Object-Oriented Analysis requires experience to identify appropriate classes, poor analysis leads to poor software design, and complex systems often require multiple iterations.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis assumes that the data are structured in a way that can be analyzed using traditional methods, such as Row Echelon Form, REF, and REF-Fold Cross Validation."
+    },
+    {
+        "instruction": "What important facts should be remembered about Object-Oriented Analysis?",
+        "input": "",
+        "output": "Object-Oriented Analysis focuses on understanding the problem before implementation, identifies classes before software design, uses Entity Classes to store information, Boundary Classes for interaction, and Control Classes to coordinate software behavior.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis is fundamental to modern software engineering. It provides the foundation for building software systems, organizing data, organizing information, and organizing software."
+    },
+    {
+        "instruction": "What common mistakes should be avoided during Object-Oriented Analysis?",
+        "input": "",
+        "output": "Common mistakes include confusing analysis with design, treating every noun as a class, placing business logic inside Boundary Classes, and storing data inside Control Classes.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Common mistakes include forgetting to assign a variable to a property, forgetting to assign a parameter to a method, confusing a parameter with a property, and confusing a parameter with a method."
+    },
+    {
+        "instruction": "A software engineer places business logic inside a user interface class. Why is this poor Object-Oriented Analysis?",
+        "input": "",
+        "output": "Business logic belongs inside Control Classes, while Boundary Classes should only manage communication between the software and users or external systems. Mixing responsibilities reduces maintainability and violates the purpose of the different class types.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Business logic should be exposed to the entire software architecture, not only to the business requirements. Proper Object-Oriented Analysis reveals the business logic and its relationships so developers can understand the software better."
+    },
+    {
+        "instruction": "A development team is identifying customers, products, invoices, and employees before beginning implementation. Which Object-Oriented Analysis activity are they performing?",
+        "input": "",
+        "output": "The team is performing class identification by identifying Entity Classes that represent the major concepts and long-lived information within the application domain.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Identifying customers, products, invoices, and employees before beginning implementation is one of the most important activities in Object-Oriented Development. It identifies the customers, the products, the functions, and the requirements that will be used during the project."
+    },
+    {
+        "instruction": "Describe the Object-Oriented Analysis workflow.",
+        "input": "",
+        "output": "Begin by understanding the client's requirements, identify the classes within the application domain, classify them as Entity, Boundary, or Control Classes, perform Functional Modeling with Use Cases, perform Class Modeling using UML Class Diagrams, perform Dynamic Modeling with State Diagrams, and prepare the object-oriented representation for software design.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The workflow consists of collecting data, building an object-oriented model, analyzing the data, writing the model, and deploying the model to a development environment."
+    },
+    {
+        "instruction": "Why is Object-Oriented Analysis considered a fundamental phase of Software Engineering?",
+        "input": "",
+        "output": "Object-Oriented Analysis transforms customer requirements into an object-oriented representation by identifying classes, relationships, and behaviors before implementation begins. This improves requirement understanding, simplifies software design, encourages modularity, and provides a strong foundation for implementation and long-term software maintenance.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "Object-Oriented Analysis provides a systematic approach to understanding the relationships among software components, their dependencies, and the software architecture. It provides a systematic understanding of the software architecture and its relationships, allowing engineers to identify the most important parts of the software system and to organize the software in logical groups."
+    },
+    {
+        "instruction": "How do the three modeling activities complement each other during Object-Oriented Analysis?",
+        "input": "",
+        "output": "Functional Modeling describes what the system should do through Use Cases, Class Modeling identifies the classes and their relationships using UML Class Diagrams, and Dynamic Modeling explains how objects behave over time using State Diagrams. Together, they provide a complete understanding of the system before design begins.",
+        "subject": "Software Engineering",
+        "source_file": "05_Object_Oriented_Analysis.jsonl",
+        "model_response": "The three activities provide a foundation for understanding the relationships among the three components of the system, while the first activity focuses on understanding the relationships among the three independent components."
+    },
+    {
+        "instruction": "What is Object-Oriented Design (OOD)?",
+        "input": "",
+        "output": "Object-Oriented Design (OOD) is the software engineering activity that transforms the results of Object-Oriented Analysis into a complete software design that can be implemented. During OOD, classes are refined by defining their attributes, methods, relationships, and responsibilities.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Object-Oriented Design (OOD) is a programming model that emphasizes simplicity, readability, and encapsulation. It emphasizes simplicity, readability, and encapsulation."
+    },
+    {
+        "instruction": "What is the purpose of Object-Oriented Design?",
+        "input": "",
+        "output": "The purpose of Object-Oriented Design is to convert software requirements into a detailed design that is easy to implement, maintain, extend, and reuse while minimizing dependencies and maximizing modularity and maintainability.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The purpose of Object-Oriented Design is to simplify the development of software by making the most of the available resources while preserving the flexibility required for modern applications."
+    },
+    {
+        "instruction": "How does Object-Oriented Design differ from Object-Oriented Analysis?",
+        "input": "",
+        "output": "Object-Oriented Analysis focuses on understanding the problem domain and identifying the required classes and behaviors, whereas Object-Oriented Design focuses on creating a practical software solution by refining those classes into implementable components.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Object-Oriented Design emphasizes encapsulation, inheritance, and polymorphism, while Object-Oriented Analysis emphasizes encapsulation, inheritance, and polymorphism, emphasizing simplicity and readability."
+    },
+    {
+        "instruction": "What are the two fundamental aspects of every software product?",
+        "input": "",
+        "output": "Every software product consists of operations (methods) that manipulate information and data that those operations act upon. Object-Oriented Design combines both aspects into objects.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The two fundamental aspects of every software product are the software development process and the software architecture. The software development process includes the requirements, requirements, requirements, and the software architecture."
+    },
+    {
+        "instruction": "What are the three primary software design approaches?",
+        "input": "",
+        "output": "The three primary software design approaches are Operation-Oriented Design, Data-Oriented Design, and Hybrid Design.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The three primary software design approaches are Agile, MVP, and Open-Source. Agile emphasizes customer collaboration, iterative development, and continuous delivery, while MVP emphasizes customer collaboration, customer feedback, and customer involvement, while Open-Source emphasizes customer collaboration, customer feedback, and community involvement."
+    },
+    {
+        "instruction": "What is Operation-Oriented Design?",
+        "input": "",
+        "output": "Operation-Oriented Design focuses primarily on the operations or procedures performed by the system. The design begins with functions and algorithms and is commonly associated with procedural and structured programming.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Operation-Oriented Design separates the implementation of a system from its implementation. Implementation details such as data structures, inheritance, and loops are encapsulated in the application domain."
+    },
+    {
+        "instruction": "What is Data-Oriented Design?",
+        "input": "",
+        "output": "Data-Oriented Design focuses on organizing and managing data. The software structure is built around the information being stored and manipulated.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Data-Oriented Design is a software development methodology that emphasizes simplicity, readability, and modularity. It emphasizes simplicity, readability, and modularity."
+    },
+    {
+        "instruction": "What is Hybrid Design?",
+        "input": "",
+        "output": "Hybrid Design combines Operation-Oriented and Data-Oriented Design. Modern object-oriented software commonly follows this approach by combining data and behavior into objects.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Hybrid Design combines elements from multiple domains into one coherent system. It emphasizes simplicity, adaptability, and flexibility while emphasizing teamwork, collaboration, and customer-facing solutions."
+    },
+    {
+        "instruction": "What are the three major activities of Classical Software Design?",
+        "input": "",
+        "output": "The three major activities are Architectural Design, Detailed Design, and Design Testing.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The three major activities of Classical Software Design are:\n\n1. Analysis and Design\n\n2. Implementation\n\n3. Test-Driven Development."
+    },
+    {
+        "instruction": "What is Architectural Design?",
+        "input": "",
+        "output": "Architectural Design defines the overall software structure by decomposing the system into major subsystems and modules and specifying how those modules communicate with one another.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Architectural Design is the systematic development, operation, maintenance, and retirement of a building system. It includes planning, requirements, analysis, design, and implementation."
+    },
+    {
+        "instruction": "What is Detailed Design?",
+        "input": "",
+        "output": "Detailed Design specifies how every module operates by defining its algorithms, data structures, interfaces, and internal logic before implementation begins.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Detailed Design is the process of systematically studying, analyzing, and refining the solution before implementation. It emphasizes simplicity, simplicity of implementation, and simplicity of solution."
+    },
+    {
+        "instruction": "What is Design Testing?",
+        "input": "",
+        "output": "Design Testing evaluates the software design before implementation to identify potential architectural and design problems, reducing implementation costs and preventing major design errors.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Design Testing is the process of testing software using different versions of the same software system to determine whether the software works as expected before implementation."
+    },
+    {
+        "instruction": "How is Data Flow Analysis used during Object-Oriented Design?",
+        "input": "",
+        "output": "Data Flow Analysis transforms specifications into modular software components by dividing the software into major modules, refining each module through stepwise refinement, and continuing until every module achieves high cohesion and low coupling.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Data flow analysis identifies the flow of information through an application by analyzing how data changes during development. It identifies the most important and important-but-not-essential elements of the application, identifies the most important dependencies, and identifies the most important relationships between elements."
+    },
+    {
+        "instruction": "Why is stepwise refinement important during software design?",
+        "input": "",
+        "output": "Stepwise refinement gradually decomposes large modules into smaller, manageable components, reducing software complexity and helping designers achieve high cohesion and low coupling.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Stepwise refinement helps identify the most important parts of the software architecture while reducing the chance of unnecessary complexity."
+    },
+    {
+        "instruction": "How do real-world software systems differ from simple textbook examples?",
+        "input": "",
+        "output": "Real-world software systems typically contain multiple inputs, multiple outputs, and numerous interacting modules. Object-Oriented Design must manage these complex interactions while maintaining a clear architecture.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Software systems are designed to be flexible, adapt to changing requirements, and adapt to changing business needs. They are designed to adapt to changing business needs, market conditions, and technological changes."
+    },
+    {
+        "instruction": "What is the objective of the Object-Oriented Design process?",
+        "input": "",
+        "output": "The objective of Object-Oriented Design is to refine the classes identified during Object-Oriented Analysis into complete software components that are ready for implementation.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The objective of the Object-Oriented Design process is to create a system that is both efficient and flexible while remaining maintainable and scalable."
+    },
+    {
+        "instruction": "What happens during Step 1 of the Object-Oriented Design process?",
+        "input": "",
+        "output": "Step 1 expands the initial class diagram by defining attribute data types, assigning methods to classes, determining relationships, and identifying the responsibilities of each object.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The Object-Oriented Design process begins by identifying the primary objective of the software system, identifying the software components that must be designed, identifying the requirements, and identifying the software engineering practices that must be followed."
+    },
+    {
+        "instruction": "What happens during Step 2 of the Object-Oriented Design process?",
+        "input": "",
+        "output": "Step 2 designs every method in detail by specifying its purpose, inputs, outputs, internal algorithms, and interactions with other objects. These designs are commonly represented using pseudocode, UML interaction diagrams, or flowcharts.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The Object-Oriented Design process includes the following steps:\n\nIdentify the requirements and constraints.\n\nIdentify the solution.\n\nIdentify the trade-offs between the requirements and the constraints.\n\nIdentify the appropriate abstraction.\n\n### Question:\nWhat are the advantages of Object-Oriented Design?\n\n\nObject-Oriented Design provides a consistent, consistent architecture, supports multiple development environments, and simplifies the development of software systems."
+    },
+    {
+        "instruction": "What is Information Hiding?",
+        "input": "",
+        "output": "Information Hiding is the principle that each class should hide its internal implementation while exposing only the operations needed by other classes. This improves security, maintainability, and reduces coupling.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Information hiding is the process of hiding information from the software development process by hiding it from the client through documentation, documentation models, and other techniques."
+    },
+    {
+        "instruction": "Why should methods be assigned to the responsible object?",
+        "input": "",
+        "output": "Methods should belong to the object responsible for the behavior they perform instead of being duplicated across multiple clients. This improves code reuse, maintainability, and software organization.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Assigning methods to the responsible object ensures that the correct operation is performed on the correct data, and ensures that the correct solution is obtained when appropriate."
+    },
+    {
+        "instruction": "What is Responsibility-Driven Design?",
+        "input": "",
+        "output": "Responsibility-Driven Design assigns each class clearly defined responsibilities. Objects collaborate by sending messages while each object performs only the work assigned to it.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Rationality is the principle that the goal of software development should be to produce correct and useful software rather than to produce the desired result through manual effort. Responsibility-Driven Development emphasizes planning, collaboration, and customer feedback instead of relying on manual processes."
+    },
+    {
+        "instruction": "What are the advantages of Object-Oriented Design?",
+        "input": "",
+        "output": "Object-Oriented Design provides high modularity, easier maintenance, greater code reuse, improved scalability, and better software organization.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Object-Oriented Design provides a simple and efficient programming model, supports inheritance, supports polymorphism, and provides a consistent and efficient implementation."
+    },
+    {
+        "instruction": "What are the limitations of Object-Oriented Design?",
+        "input": "",
+        "output": "Object-Oriented Design requires careful planning, poor class design can negatively affect the entire software architecture, and complex systems may require multiple design iterations.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Object-Oriented Design requires inheritance, loops, and loops are often unnecessary. It also requires inheritance and loops are often unnecessary when using inheritance to implement inheritance."
+    },
+    {
+        "instruction": "A developer places many unrelated responsibilities into a single class. Which Object-Oriented Design principle is being violated?",
+        "input": "",
+        "output": "This violates the principle of Responsibility-Driven Design because each class should have clearly defined responsibilities. Assigning too many responsibilities to one class reduces maintainability and software quality.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "The principle of Object-Oriented Design requires that every class implement the same interface, which may not be the case in every project."
+    },
+    {
+        "instruction": "Why is Object-Oriented Design considered a critical phase of Software Engineering?",
+        "input": "",
+        "output": "Object-Oriented Design transforms the results of analysis into a complete implementation plan by refining classes, defining software architecture, designing methods, and applying principles such as information hiding, responsibility-driven design, high cohesion, and low coupling. This creates software that is easier to implement, maintain, extend, and reuse.",
+        "subject": "Software Engineering",
+        "source_file": "06_Object_Oriented_Design.jsonl",
+        "model_response": "Object-Oriented Design provides a consistent, efficient, and flexible architecture that supports multiple software projects while maintaining maintainability, modularity, and maintainability through incremental development. It also provides a consistent framework for organizing software and provides a foundation for software engineering."
+    },
+    {
+        "instruction": "What is Modular Design in Software Engineering?",
+        "input": "",
+        "output": "Modular Design is a software engineering approach that divides a software system into smaller, self-contained modules. Each module performs a specific responsibility and interacts with other modules through clearly defined interfaces.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Modular Design is the process of designing software systems using different software components instead of building one complete system. It emphasizes simplicity, modularity, and flexibility."
+    },
+    {
+        "instruction": "What is the purpose of Modular Design?",
+        "input": "",
+        "output": "The purpose of Modular Design is to reduce software complexity by decomposing a large system into manageable components. Good modular design improves maintainability, reusability, scalability, testability, and readability.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "The purpose of Modular Design is to simplify the software development process by allowing each component to be designed independently and organized into a single, consistent package."
+    },
+    {
+        "instruction": "What is a module?",
+        "input": "",
+        "output": "A module is a logically related collection of program statements that performs a specific task. An effective module has one clear responsibility, is easy to understand, can be modified independently, and can potentially be reused.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "A module is a collection of functions that are used together in a single application."
+    },
+    {
+        "instruction": "Why are modules important in software design?",
+        "input": "",
+        "output": "Modules divide complex software into smaller, manageable units, making the system easier to understand, maintain, test, extend, and reuse.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Each module serves as a starting point for the rest of the software system. Each module provides a consistent and consistent architecture, provides a consistent workflow, and serves as the foundation for the rest of the software system."
+    },
+    {
+        "instruction": "What is cohesion?",
+        "input": "",
+        "output": "Cohesion measures how strongly the responsibilities inside a module are related. High cohesion is desirable because each module performs one well-defined task, while low cohesion groups unrelated responsibilities together.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Cohesion is the idea that the same vector space can contain different vectors. It connects the idea of linear independence with the idea of directionality."
+    },
+    {
+        "instruction": "What are the different types of cohesion?",
+        "input": "",
+        "output": "The types of cohesion, from weakest to strongest, are Coincidental, Logical, Temporal, Procedural, Communicational, Functional, and Informational cohesion.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "The different types of cohesion are:\n\n1. Transparent cohesion: The entire system is visible to the outside world.\n\n2. Nontransparent cohesion: The system is hidden from the outside world.\n\n3. Hidden cohesion: The system is not visible to the outside world."
+    },
+    {
+        "instruction": "What is Functional Cohesion and why is it desirable?",
+        "input": "",
+        "output": "Functional Cohesion occurs when a module performs exactly one well-defined task. It provides high reusability, easier maintenance, and easier extension, making it one of the most desirable forms of cohesion.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Functional Cohesion is the ability of a system to generate new directions without dependence on existing ones. It allows the system to adapt to changing conditions and to generate new directions without requiring every direction to be independent."
+    },
+    {
+        "instruction": "What is Informational Cohesion?",
+        "input": "",
+        "output": "Informational Cohesion occurs when a module performs multiple independent operations on the same data structure, with each operation having its own entry point. This type of cohesion is commonly found in object-oriented classes.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Indentation is the direction in which the text flows during a document-term matrix. It connects the text with the correct topics and provides a strong foundation for later development."
+    },
+    {
+        "instruction": "What is coupling?",
+        "input": "",
+        "output": "Coupling measures the degree of dependency between two modules. Low coupling is desirable because it allows modules to remain independent and localizes the impact of future changes.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Coupling is the process of making multiple independent decisions during a single task. It allows the software team to focus on one or a few important tasks while remaining flexible and adaptable to changing requirements."
+    },
+    {
+        "instruction": "What are the different types of coupling?",
+        "input": "",
+        "output": "The types of coupling, from strongest dependency to weakest, are Content Coupling, Common Coupling, Control Coupling, Stamp Coupling, and Data Coupling.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Different types of coupling include:\n\n• Communication between the model and the data\n\n• Communication between the model and the training data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the evaluation data\n\n• Communication between the model and the"
+    },
+    {
+        "instruction": "Why is Data Coupling considered the best form of coupling?",
+        "input": "",
+        "output": "Data Coupling is preferred because modules communicate only through the data they actually require. This improves modularity, maintainability, and module independence.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Data Coupling combines the benefits of both approaches, allowing both the client and the system to work together efficiently and effectively."
+    },
+    {
+        "instruction": "What is the primary objective of good modular software design?",
+        "input": "",
+        "output": "The primary objective of modular software design is to achieve high cohesion and low coupling. High cohesion keeps related responsibilities together, while low coupling minimizes dependencies between modules.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Good modular software design aims to minimize coupling, maximize encapsulation, and maximize encapsulation through the use of encapsulation annotations."
+    },
+    {
+        "instruction": "What is Stepwise Refinement?",
+        "input": "",
+        "output": "Stepwise Refinement is a top-down design technique in which software is first designed using high-level concepts and then progressively refined into increasingly detailed components until every module can be implemented.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Stepwise Refinement is a technique used to simplify a solution by repeatedly refining the solution until the correct solution is obtained."
+    },
+    {
+        "instruction": "What are the benefits of Stepwise Refinement?",
+        "input": "",
+        "output": "Stepwise Refinement reduces complexity, improves readability, and supports incremental software development by gradually refining the system into implementable modules.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Stepwise Refinement simplifies the process of discovering hidden structures, identifies redundant information, and provides a more reliable estimate of the true rank of a matrix."
+    },
+    {
+        "instruction": "What is Data Abstraction?",
+        "input": "",
+        "output": "Data Abstraction focuses on what an object represents rather than how it is implemented. Users interact with the public interface while implementation details remain hidden.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Data Abstraction is the process of organizing, organizing, organizing, organizing, and organizing more data in a structured way."
+    },
+    {
+        "instruction": "What is Data Encapsulation?",
+        "input": "",
+        "output": "Data Encapsulation combines data and the operations that manipulate it into a single software unit. It protects internal data from unauthorized access while improving modularity and serving as an example of abstraction.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Data Encapsulation is the process of storing structured data in a structured format that can be read and processed by computers."
+    },
+    {
+        "instruction": "What is Information Hiding?",
+        "input": "",
+        "output": "Information Hiding is a software design principle stating that implementation details likely to change should be hidden from other modules. This localizes future changes, prevents ripple effects, and improves maintainability.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Information hiding is the process of hiding information from the software development process by hiding it from the client through documentation, documentation models, and other techniques."
+    },
+    {
+        "instruction": "What are objects in Object-Oriented Programming?",
+        "input": "",
+        "output": "Objects are instances of classes. Each object contains attributes that represent its state and methods that define its behavior. Objects communicate with one another through messages.",
+        "subject": "Software Engineering",
+        "source_file": "07_Modular_Design_Principles.jsonl",
+        "model_response": "Objects are the building blocks of an Object-Oriented Framework. Objects communicate through data structures such as lists, maps, and arrays."
+    }
+]
