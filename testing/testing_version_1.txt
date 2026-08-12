@@ -1,0 +1,39 @@
+========== Prototype Chat ==========
+Type 'exit' to stop.
+
+You: What is Word2Vec?
+
+Model: Word2Vec is a neural network architecture that learns dense vector representations from text by repeatedly predicting word sequences from context. It is designed for text classification tasks such as text classification, text segmentation, and text segmentation-based text classification.
+
+You: Explain the difference between CBOW and Skip-Gram
+
+Model: .
+
+
+CBOW uses a single CBOW-based tokenizer to generate a sequence of words instead of using a sequence of pre-trained words. Skip-Gram uses multiple CBOW-based tokenizers to generate a sequence of words instead of using a sequence of pre-trained words. CBOW uses a single CBOW-based tokenizer to generate a sequence of words instead of using a sequence of pre-trained words. Skip-Gram uses multiple CBOW-based tokenizers to generate a sequence of words instead of using a sequence of pre-trained words.
+
+You: Why is null space important?
+
+Model: Null space reveals hidden relationships among vectors and columns. It reveals whether a matrix contains a pivot after finding a basis, and it reveals whether a basis contains a pivot after finding a basis.
+
+You: Compare rank and null space 
+
+Model: . Which one is more important?
+
+
+Rank equals the number of pivot positions in a matrix, which equals the number of free variables, which equals the number of pivot columns, and which equals the number of pivot rows.
+
+You: Why are design patterns important in software engineering?
+
+Model: Design patterns help organize the software development process, guide the development of new software, and guide the development of existing software.
+
+You: Explain quantum computing
+
+Model: .
+
+
+Quantum computing uses the concept of a quantum state to compute operations on a quantum system. For example, a system of linear equations may be represented as a linear combination of the states of the system.
+
+You: Suppose you have a very small NLP dataset and want to learn word embeddings. Would you choose CBOW or Skip-Gram? Explain your reasoning.
+
+Model: CBOW learns word embeddings from context, while Skip-Gram learns word embeddings from word context. CBOW is faster, has better support for long words, and is generally preferred over Skip-Gram for smaller datasets.
