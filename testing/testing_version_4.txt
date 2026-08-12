@@ -1,0 +1,19 @@
+========== Prototype Chat ==========
+Type 'exit' to stop.
+
+You: What are the limitations of Bag-of-Words?
+
+Model: • Vocabulary can become very large. • Cannot capture semantic relationships between words.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt [Section: LIMITATIONS] (similarity: 0.7104)
+
+You: What is the difference between transition probability and emission probability in a Hidden Markov Model?
+
+Model: Emission probability represents the probability that a hidden state generates a particular observed word.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\hidden_markov_models.txt [Section: EMISSION PROBABILITY] (similarity: 0.7533)
+
+You: exit
+Chat ended.
