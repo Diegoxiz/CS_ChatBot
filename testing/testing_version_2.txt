@@ -1,0 +1,50 @@
+========== Prototype Chat ==========
+Type 'exit' to stop.
+
+You: Explain the difference between CBOW and Skip-Gram
+
+Model: CBow begins by collecting all occurrences inside one token while skipping over tokens outside it because they do not contribute meaningful information.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt (similarity: 0.4918)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt (similarity: 0.4631)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\custom_word_vectors.txt (similarity: 0.4506)
+
+You: What are the limitations of Bag-of-Words?
+
+Model: Bag Of Word does require preprocessing information such so-called 'tokenization' steps during training.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt (similarity: 0.5662)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\language_modeling_with_lstm.txt (similarity: 0.4310)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt (similarity: 0.4274)
+
+You: What is the difference between transition probability and emission probability in a Hidden Markov Model?
+
+Model: Transitions generate new information rather than simply predicting what will occur next. Emission rates reflect how many times each token appears during testing instead; they do not directly capture whether or when specific tokens should appear.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\hidden_markov_models.txt (similarity: 0.5654)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\hidden_markov_models.txt (similarity: 0.5247)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\hidden_markov_models.txt (similarity: 0.3416)
+
+You: Compare Word2Vec and Bag-of-Words
+
+Model: Bag Ofwords uses more memory because it stores only tokenized information rather than entire sentences.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt (similarity: 0.6422)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt (similarity: 0.6313)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt (similarity: 0.5296)
+
+You: Why is the null space important?
+
+Model: The null spaces provide unique information about unknown quantities and allow efficient numerical computation without requiring back-substitution during solving problems involving nontrivially separable fields.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\Linear Algebra\cleaned\15_null_space.txt (similarity: 0.5564)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\Linear Algebra\cleaned\15_null_space.txt (similarity: 0.4821)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\Linear Algebra\cleaned\15_null_space.txt (similarity: 0.3841)
+
+You: exit
+Chat ended.
