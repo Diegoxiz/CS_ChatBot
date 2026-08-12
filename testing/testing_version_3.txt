@@ -1,0 +1,28 @@
+========== Prototype Chat ==========
+Type 'exit' to stop.
+
+You: Explain the difference between CBOW and Skip-Gram
+
+Model: CBow learns contextual relationships by studying how contexts change over time. Skip is designed for learning patterns that occur naturally during training.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt (similarity: 0.4918)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\custom_word_vectors.txt (similarity: 0.4506)
+
+You: What are the limitations of Bag-of-Words?
+
+Model: Bag Of Word Count does require labeled training datasets, which may increase computational cost if large corpora are required.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt (similarity: 0.5662)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\language_modeling_with_lstm.txt (similarity: 0.4310)
+
+You: What is the difference between transition probability and emission probability in a Hidden Markov Model?
+
+Model: Transition risk equals the sum of all possible transitions from one latent state through every observation during training. Emission risks equal total predicted future emissions for each model iteration.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\hidden_markov_models.txt (similarity: 0.5654)
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\logistic_regression.txt (similarity: 0.2353)
+     exit
+Chat ended.
