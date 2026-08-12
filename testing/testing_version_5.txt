@@ -1,0 +1,60 @@
+========== Prototype Chat ==========
+Type 'exit' to stop.
+
+You: What is Bag-of-Words?
+
+Model: Bag of Words (BoW) is one of the simplest text representation techniques used in Natural Language Processing. It converts text into numerical vectors by counting how many times each word appears in a document while ignoring grammar and word order.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt [Section: Definition] (similarity: 0.7159)
+
+You: What are the limitations of Bag-of-Words?
+
+Model: The main limitations are: Vocabulary can become very large; Cannot capture semantic relationships between words.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\bag_of_words.txt [Section: LIMITATIONS] (similarity: 0.7104)
+
+You: Compare linear regression and logistic regression.
+
+Model: Linear Regression predicts continuous values, while Logistic Regression predicts probabilities/classes. Linear Regression regression algorithm, while Logistic Regression classification algorithm. Linear Regression uses Least Squares, while Logistic Regression uses Cross Entropy. Linear Regression output can be any real value, while Logistic Regression output is between 0 and 1. Linear Regression suitable for regression, while Logistic Regression suitable for classification.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\logistic_regression.txt [Section: LINEAR VS. LOGISTIC REGRESSION] (similarity: 0.5651)
+
+You: Compare CBOW and Skip-Gram
+
+Model: CBOW the center word from surrounding words, while Skip-Gram skip-Gram predicts surrounding words from the center word.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt [Section: IMPORTANT NOTES] (similarity: 0.3835)
+
+You: What is the difference between RNNs and LSTMs?
+
+Model: RNNs: Modern architectures such as CNNs, RNNs, LSTMs, and Transformers are all built upon neural network principles In contrast, LSTMs: Modern architectures such as CNNs, RNNs, LSTMs, and Transformers are all built upon neural network principles
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\artificial_neural_networks.txt [Section: Important Notes] (similarity: 0.3385)
+
+You: What are the limitations of Word2Vec?
+
+Model: The main limitations are: Requires a large corpus for high-quality embeddings; Cannot capture contextual meaning like modern Transformer-based embeddings.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt [Section: LIMITATIONS] (similarity: 0.7059)
+
+You: How are embeddings learned in Word2Vec? 
+
+Model: A word embedding is a real-valued numerical vector that represents the meaning of a word. Unlike one-hot encoding or Bag-of-Words, embeddings capture semantic relationships between words.
+
+Retrieved sources:
+- C:\Users\diego\Desktop\MODEL_KNOWLEDGE_BASE\NLP\cleaned\word2vec_fundamentals.txt [Section: WORD EMBEDDINGS] (similarity: 0.8211)
+
+You: What is the capital of France?
+
+Model: The course notes do not provide enough information to answer this question.
+
+Retrieved sources:
+
+You: exit
+Chat ended.
